@@ -29,6 +29,7 @@ By performing this analysis we discovered some key knowledge that will help us d
 
 Oahu seems like a perfect location to open up a Surf and Ice Cream Shop, the weather seems to be very consistent and the paradise-like beaches present with the opportunity to draw a large crowd of Tourists and Surfing Enthusiasts. 
 
-To have a better understanding of the terrain and weather in Oahu, in future analysis we could include Wind-Speed as it influences the waves and ability of surfers to be on the water and possibly a count of how many days are Rain days and could make the Surfing virtually impossible in the area.
+To have a better understanding of the terrain and weather in Oahu, in future analysis we could include Wind-Speed as it influences the waves and ability of surfers to be on the water and possibly a count of how many days are Rain days and could make the Surfing virtually impossible in the area.  
 
- 
+
+
